@@ -1,0 +1,5 @@
+\babel@toc {brazil}{}
+\contentsline {chapter}{Sum\'ario}{i}{section*.1}%
+\contentsline {chapter}{Tempo do Advento}{2}{section*.3}%
+\contentsline {section}{Missa I}{2}{section*.4}%
+\contentsline {subsection}{Entrada}{2}{subsection*.5}%
